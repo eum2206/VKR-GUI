@@ -9,6 +9,8 @@ Built for working with digitized Slovenian *vezana knjiga računov* (bound invoi
 
 After invoices are extracted from scanned documents (via OCR or other tools), the resulting JSON files need manual review and correction. This editor provides a visual form interface that maps directly to the Slovenian invoice structure, making it faster and less error-prone than editing raw JSON.
 
+![VKR Invoice Editor](screenshot.png)
+
 ## Features
 
 - **Visual form layout** matching the physical invoice structure (supplier, buyer, line items, VAT, totals)
